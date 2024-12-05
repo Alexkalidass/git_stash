@@ -2,3 +2,5 @@ i created new file as File1.txt
  i deleted this file from my local.then i use the pull command which is used for change the local as same remote repo.
  after that i used git status command use for tracking the history.then i use git restore File1.txt for undo my deletion that file.
 this line i write from remote repo
+*Feature 1
+***another awesome Features
