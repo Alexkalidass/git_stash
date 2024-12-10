@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 //i am learning merge command for my strong confirmation.  I am learning Git stash command in branchB.
+=======
+//i am learning merge command for my strong confirmation.   I am learning Git merge command in branchA.   
+>>>>>>> branch4
