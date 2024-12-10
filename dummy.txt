@@ -1,1 +1,1 @@
-i am learning merge command for my strong confirmation
+//i am learning merge command for my strong confirmation.  I am learning Git stash command in branchB.
