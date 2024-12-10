@@ -1,1 +1,1 @@
-i am learning stash command
+i am learning merge command for my strong confirmation
